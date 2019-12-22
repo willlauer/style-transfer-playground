@@ -4,3 +4,5 @@ data
 OpenNMT/data
 cpp/mnist/build
 cpp/dcgan/build
+examples/fast_neural_style/saved_models
+venv
